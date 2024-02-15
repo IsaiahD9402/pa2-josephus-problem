@@ -1,0 +1,170 @@
+~~List Testing~~
+M = 3 N = 4
+Total CPU Time: 9 milliseconds
+Avg Elim Time: 0.001 milliseconds
+
+~~Vector Testing~~
+M = 3 N = 4
+Total CPU Time: 3 milliseconds
+Avg Elim Time: 0.008 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 3 N = 8
+Total CPU Time: 2 milliseconds
+Avg Elim Time: 0.009 milliseconds
+
+~~Vector Testing~~
+M = 3 N = 8
+Total CPU Time: 0 milliseconds
+Avg Elim Time: 0.003 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 3 N = 16
+Total CPU Time: 5 milliseconds
+Avg Elim Time: 0.011 milliseconds
+
+~~Vector Testing~~
+M = 3 N = 16
+Total CPU Time: 2 milliseconds
+Avg Elim Time: 0.012 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 3 N = 32
+Total CPU Time: 2 milliseconds
+Avg Elim Time: 0.016 milliseconds
+
+~~Vector Testing~~
+M = 3 N = 32
+Total CPU Time: 1 milliseconds
+Avg Elim Time: 0.022 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 3 N = 64
+Total CPU Time: 5 milliseconds
+Avg Elim Time: 0.02 milliseconds
+
+~~Vector Testing~~
+M = 3 N = 64
+Total CPU Time: 2 milliseconds
+Avg Elim Time: 0.019 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 3 N = 128
+Total CPU Time: 4 milliseconds
+Avg Elim Time: 0.025 milliseconds
+
+~~Vector Testing~~
+M = 3 N = 128
+Total CPU Time: 4 milliseconds
+Avg Elim Time: 0.022 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 3 N = 256
+Total CPU Time: 31 milliseconds
+Avg Elim Time: 0.116 milliseconds
+
+~~Vector Testing~~
+M = 3 N = 256
+Total CPU Time: 10 milliseconds
+Avg Elim Time: 0.04 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 3 N = 512
+Total CPU Time: 45 milliseconds
+Avg Elim Time: 0.085 milliseconds
+
+~~Vector Testing~~
+M = 3 N = 512
+Total CPU Time: 87 milliseconds
+Avg Elim Time: 0.164 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 3 N = 1024
+Total CPU Time: 177 milliseconds
+Avg Elim Time: 0.166 milliseconds
+
+~~Vector Testing~~
+M = 3 N = 1024
+Total CPU Time: 120 milliseconds
+Avg Elim Time: 0.113 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 2 N = 512
+Total CPU Time: 70 milliseconds
+Avg Elim Time: 0.127 milliseconds
+
+~~Vector Testing~~
+M = 2 N = 512
+Total CPU Time: 28 milliseconds
+Avg Elim Time: 0.05 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 4 N = 512
+Total CPU Time: 50 milliseconds
+Avg Elim Time: 0.095 milliseconds
+
+~~Vector Testing~~
+M = 4 N = 512
+Total CPU Time: 62 milliseconds
+Avg Elim Time: 0.117 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 8 N = 512
+Total CPU Time: 50 milliseconds
+Avg Elim Time: 0.093 milliseconds
+
+~~Vector Testing~~
+M = 8 N = 512
+Total CPU Time: 57 milliseconds
+Avg Elim Time: 0.109 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 16 N = 512
+Total CPU Time: 46 milliseconds
+Avg Elim Time: 0.084 milliseconds
+
+~~Vector Testing~~
+M = 16 N = 512
+Total CPU Time: 48 milliseconds
+Avg Elim Time: 0.09 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 32 N = 512
+Total CPU Time: 44 milliseconds
+Avg Elim Time: 0.083 milliseconds
+
+~~Vector Testing~~
+M = 32 N = 512
+Total CPU Time: 47 milliseconds
+Avg Elim Time: 0.09 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 64 N = 512
+Total CPU Time: 45 milliseconds
+Avg Elim Time: 0.082 milliseconds
+
+~~Vector Testing~~
+M = 64 N = 512
+Total CPU Time: 64 milliseconds
+Avg Elim Time: 0.123 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 128 N = 512
+Total CPU Time: 47 milliseconds
+Avg Elim Time: 0.086 milliseconds
+
+~~Vector Testing~~
+M = 128 N = 512
+Total CPU Time: 55 milliseconds
+Avg Elim Time: 0.102 milliseconds
+-------------------------------------------------------------------------------------------
+~~List Testing~~
+M = 256 N = 512
+Total CPU Time: 65 milliseconds
+Avg Elim Time: 0.123 milliseconds
+
+~~Vector Testing~~
+M = 256 N = 512
+Total CPU Time: 49 milliseconds
+Avg Elim Time: 0.096 milliseconds
+-------------------------------------------------------------------------------------------
